@@ -4,3 +4,4 @@ env/
 
 *.yml
 launch.json
+pyRunning/
